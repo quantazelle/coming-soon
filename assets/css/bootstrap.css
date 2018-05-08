@@ -261,6 +261,9 @@ th {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
 }
+.row .col-sm-12.col-md-12.col-lg-12 div {
+}
+
 *:before,
 *:after {
   -webkit-box-sizing: border-box;
