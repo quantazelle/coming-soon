@@ -80,8 +80,11 @@ a:after {
   padding: 10px 20px;
   margin-bottom: 0;
   font-size: 14px;
+	
   font-weight: normal;
-  line-height: 1.428571429;
+  /*line-height: 1.428571429;*/
+
+	line-height: 1;
   text-align: center;
   white-space: nowrap;
   vertical-align: middle;
@@ -92,8 +95,10 @@ a:after {
        -o-user-select: none;
           user-select: none;
   background-image: none;
-  border: 1px solid transparent;
-  border-radius: 0;
+  /*border: 6px solid transparent;
+  border-radius: 10;*/
+	border: 6=9px solid transparent;
+  border-radius: 15;
 }
 
 .btn-theme  {
@@ -107,8 +112,9 @@ a:after {
   border-color: #444;
 }
 form.signup input[type=email]  {
-	height: 42px;
-	width: 200px;
+	/*height: 50px;*/
+	height: 65px;
+	width: 350px;
 	border-radius: 0;
 	border: none;
 }
@@ -117,6 +123,13 @@ form.signup button.btn {
 }
 form.signup input.form-control:focus {
 	border-color: #fd680e;
+	/*height: 45px;*/
+	height: 65px;
+	/*width: 200px;*/
+	width: 350px;
+	border-radius: 0;
+	border: none;
+	line-height: 1;
 }
 
 
