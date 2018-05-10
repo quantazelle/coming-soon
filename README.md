@@ -1,6 +1,6 @@
-## Bootstrap Coming Soon Template
+## Minimal Coming Soon Template
 
-Free Beautiful animated [Bootstrap](http://getbootstrap.com) coming soon template page with a catchy design, SEO ready & integrated with mailchimp.
+Free Beautiful  [Bootstrap](http://getbootstrap.com) coming soon template page with a catchy design, SEO ready & integrated with mailchimp.
 
 Template Link & Preview [Coming Soon](http://www.scoopthemes.com/templates/Coming-Soon-Template/)
 
@@ -17,9 +17,6 @@ Template Link & Preview [Coming Soon](http://www.scoopthemes.com/templates/Comin
 
 Built with all the love in the world by Scoop Themes.
 
-Feel free to check more of our open source templates and themes [http://scoopthemes.com](http://scoopthemes.com).
-
-Follow us on twitter and stay tuned for any upcoming free items [@ScoopThemes](https://twitter.com/ScoopThemes).
 
 ### License
 
